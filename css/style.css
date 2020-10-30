@@ -99,6 +99,16 @@ header {
   position: relative;
   overflow: hidden; }
 
+.logo {
+  width: 60px;
+  height: 60px;
+  display: block;
+}
+
+.subtitle {
+  margin-left: 20px;
+}
+
 .nav-menu {
   border-bottom: 1px solid #eee; }
   @media (max-width: 992px) {
