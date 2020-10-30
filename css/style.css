@@ -484,7 +484,6 @@ header {
 
 .add-btn {
   display: inline-block;
-  float: right;
   vertical-align: middle;
   margin: 25px 0 0; }
   @media (max-width: 1200px) {
